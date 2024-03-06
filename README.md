@@ -2,6 +2,8 @@
 
 [![Ray Lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondlang)](https://github.com/raymondlang/github-readme-stats)
 ![Ray Lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondlang&show_icons=true&theme=transparent)
+
+![Ray Lang's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raymondlang&hide=contribs&show_icons=true&theme=dark)
 <!--
 **raymondlang/raymondlang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
