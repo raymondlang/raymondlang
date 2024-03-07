@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymondlang/)
+
+
 ![Ray Lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondlang&show_icons=true&theme=transparent)
 
 ![Ray Lang's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raymondlang&layout=compact&hide=contribs&show_icons=true&theme=dark)
