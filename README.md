@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Ray Lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondlang)](https://github.com/raymondlang/github-readme-stats)
 ![Ray Lang's GitHub stats](https://github-readme-stats.vercel.app/api?username=raymondlang&show_icons=true&theme=transparent)
 
 ![Ray Lang's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raymondlang&layout=compact&hide=contribs&show_icons=true&theme=dark)
