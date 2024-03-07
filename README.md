@@ -6,7 +6,9 @@
 
 🏢 My professional experience includes web development and process engineering in biotech/pharmaceuticals
 
-👉 Checkout [![my Personal Site!](https://img.shields.io/badge/my_personal_site-purple)](https://raymondlang.com/)
+👉 [![my Personal Site!](https://img.shields.io/badge/check_out_my_personal_site-purple)](https://raymondlang.com/)
+
+ [![my Personal Site!](https://img.shields.io/badge/my_personal_site-purple)]
 
 📫 Email: raymond.w.lang@gmail.com
 
