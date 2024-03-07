@@ -5,7 +5,7 @@
 
 ![Ray Lang's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raymondlang&layout=compact&hide=contribs&show_icons=true&theme=dark)
 
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Javascript](https://camo.githubusercontent.com/7eee6e6f657866592c5d726c190fe073cebe9f599e1c659ad010c6edd6c039dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
 
 ![Python](https://camo.githubusercontent.com/1f1d3615cd6d21d1ee64536729897532db5dfd4aaac8494c9cdead68a0a4a86c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3430383142333f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666665363661)
