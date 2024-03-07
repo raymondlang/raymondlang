@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-📝 I'm Ray and I'm a Full-Stack Software Engineer (App Academy) w/ an B.S. in Molecular Biology, Minor in Computer Science from Boston College
+📝 I'm Ray and I'm a Full-Stack Software Engineer (App Academy) an B.S. in Molecular Biology, Minor in Computer Science from Boston College
 
 🔍 I'm looking for a dynamic SWE team that I can make an impact on with my refined problem-solving skills while also being challenged daily.
 
 🏢 My professional experience includes web development and process engineering in biotech/pharmaceuticals
 
-👉 [![my Personal Site!](https://img.shields.io/badge/check_out_my_personal_site-purple)](https://raymondlang.com/)
+👉 [![my Personal Site!](https://img.shields.io/badge/my_personal_site-purple)](https://raymondlang.com/)
 
 📫 Email: raymond.w.lang@gmail.com
 
