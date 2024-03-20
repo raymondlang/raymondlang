@@ -7,6 +7,7 @@
 🏢 My professional experience includes web development and process engineering in biotech/pharmaceuticals
 
 👉 [![my Personal Site!](https://img.shields.io/badge/my_personal_site-purple)](https://raymondlang.com/)
+
 👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymondlang/)
 
 ![Ray Lang's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raymondlang&layout=compact&hide=contribs&show_icons=true&theme=dark)
