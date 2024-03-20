@@ -8,8 +8,6 @@
 
 👉 [![my Personal Site!](https://img.shields.io/badge/my_personal_site-purple)](https://raymondlang.com/)
 
-💬 Connect with me!
-
 📫 Email: raymond.w.lang@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymondlang/)
