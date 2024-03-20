@@ -4,7 +4,7 @@
 
 🔍 I'm looking for a dynamic SWE team that I can make an impact on with my refined problem-solving skills while also being challenged daily.
 
-🏢 My professional experience includes web development and process engineering in biotech/pharmaceuticals
+🏢 My professional experience includes web development and data analysis in biotech/pharmaceuticals marketing
 
 👉 [![my Personal Site!](https://img.shields.io/badge/my_personal_site-purple)](https://raymondlang.com/)
 
