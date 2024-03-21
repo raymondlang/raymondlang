@@ -6,9 +6,7 @@
 
 🏢 My professional experience includes web development and data analysis in biotech/pharmaceuticals marketing
 
-👉 [![my Personal Site!](https://img.shields.io/badge/my_personal_site-purple)](https://raymondlang.com/)
-
-👉 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymondlang/)
+- 📫 How to reach me:[![my Personal Site!](https://img.shields.io/badge/my_personal_site-purple)](https://raymondlang.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raymondlang/)
 
 ![Ray Lang's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=raymondlang&layout=compact&hide=contribs&show_icons=true&theme=dark)
 <!--
@@ -38,7 +36,7 @@ Other technologies:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-
+- 🌱 Want to learn ...
 
 
 <!--
@@ -48,11 +46,10 @@ Other technologies:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
