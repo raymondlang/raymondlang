@@ -7,6 +7,7 @@
 🏢 My professional experience includes web development and data analysis in biotech/pharmaceuticals marketing
 
 📫 How to reach me:
+
 ![my Personal Site!](https://img.shields.io/badge/my_personal_site-purple)
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
