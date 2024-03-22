@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-📝 I'm Ray and I'm a Full-Stack Software Engineer (App Academy) with a B.S. in Molecular Biology, Minor in Computer Science from Boston College.
+📝 I'm Ray and I'm a full-stack software engineer (App Academy) with a B.S. in Molecular Biology, Minor in Computer Science from Boston College (a few moons ago).
 
-🔍 I'm looking for a dynamic SWE team that I can make an impact on with my refined problem-solving skills while also being challenged daily.
+🔍 I'm looking for a dynamic SWE team that I can make an impact on. I love a challenge!
 
-🏢 My professional experience includes web development and data analysis in biotech/pharmaceuticals marketing
+🏢 My professional experience includes web development and data analysis in biotech/pharmaceuticals marketing.
 
 📫 How to reach me:
 
@@ -27,8 +27,8 @@ Frameworks:
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=for-the-badge)
-![Express](https://camo.githubusercontent.com/efb3807ac698d2c09e1b454d4699cc7c337025b8ccf5f3bee58753a27fc82ca3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465)
-![Sequelize](https://camo.githubusercontent.com/78ef55898c3301b4ff9d3f4416a1161872320dff4ed2e5bb1afe31812a7432a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53657175656c697a652d3532423045373f7374796c653d666f722d7468652d6261646765266c6f676f3d73657175656c697a65266c6f676f436f6c6f723d7768697465)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 Other technologies:
 
@@ -38,7 +38,7 @@ Other technologies:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 
