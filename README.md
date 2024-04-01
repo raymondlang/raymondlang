@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📝 I'm Ray and I'm a full-stack software engineer (App Academy) with a B.S. in Molecular Biology, Minor in Computer Science from Boston College (a few moons ago).
+📝 I'm Ray and I'm a full-stack software engineer (App Academy) with a B.S. in Molecular Biology, Minor in Computer Science from Boston College.
 
 🔍 Looking for a dynamic SWE team that I can make an impact on; I'm a team player. And I love a challenge!
 
